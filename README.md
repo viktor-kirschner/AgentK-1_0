@@ -1,5 +1,5 @@
 # AgentK-1_0
-Autonomous local-first AI CLI agent that builds its own tools and evolves with every task.
+Autonomous local-first AI CLI agent that builds its own tools and evolves with every task. It works how agents should work. Whatever the task is it will find the way to succeed. Doing this in a completely transparent way, not a black box.
 
 # AgentK
 
