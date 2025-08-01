@@ -58,7 +58,7 @@ print()
 print_colored_block(block2)
 print(" ")
 print("AgentK v1.0 – developed by Viktor Kirschner (July 2025)")
-print("    Licensed for personal, non-commercial use only.")
+print("                      MIT License.")
 print(" ")
 print(" ")
 
